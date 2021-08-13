@@ -1,4 +1,4 @@
-# mfds-termproject
+# CH5019-MFDS_TermProject
 
 This repo consists a term project which is done as a part of the coure CH5019: Mathematical Foundations of Data Science,
 Chemical Engineering Department, IIT Madras for the Spring Semester, 2020.
